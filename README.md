@@ -13,7 +13,7 @@ Bootstrap: Framework de CSS para design responsivo e estilização.
 ## Estrutura do Projeto
 
 index.html: Arquivo principal HTML com a estrutura do formulário e inclusão de scripts e estilos.\
-css/styles.css: Arquivo CSS para estilização personalizada (se necessário).\
+css/styles.css: Arquivo CSS para estilização personalizada.\
 js/scripts.js: Arquivo JavaScript contendo a lógica de validação e manipulação de eventos.
 
 ## Funcionalidades
