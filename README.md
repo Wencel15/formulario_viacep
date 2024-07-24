@@ -30,3 +30,9 @@ CEP: Valida se o CEP tem 8 dígitos e busca automaticamente o endereço correspo
 Botão Fechar: Fecha a mensagem exibida após uma ação (por exemplo, erro ou sucesso).\
 Loader: Exibe um indicador de carregamento enquanto busca o endereço ou processa o formulário.\
 Mensagens de Feedback: Exibe mensagens de erro ou sucesso dependendo da ação realizada.
+
+### Tratamento de Erros
+
+O código JavaScript inclui o uso de try...catch para tratar erros que podem ocorrer durante a execução de solicitações de rede.\
+Isso é particularmente importante para garantir que a aplicação continue funcionando de maneira robusta,\
+mesmo quando ocorrem problemas inesperados, como falhas na rede ou problemas com a API.
