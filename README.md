@@ -25,7 +25,7 @@ Celular: O campo de celular formata o número no padrão (XX) XXXXX-XXXX e valid
 E-mail: Valida se o e-mail está no formato padrão example@example.com.\
 CEP: Valida se o CEP tem 8 dígitos e busca automaticamente o endereço correspondente através da API ViaCEP.
 
-###Interações
+### Interações
 
 Botão Fechar: Fecha a mensagem exibida após uma ação (por exemplo, erro ou sucesso).\
 Loader: Exibe um indicador de carregamento enquanto busca o endereço ou processa o formulário.\
