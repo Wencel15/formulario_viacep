@@ -6,7 +6,7 @@ A aplicação utiliza Bootstrap para o estilo, e o código JavaScript gerencia a
 ## Tecnologias Usadas
 
 HTML5: Estruturação do conteúdo da página.\
-CSS3: Estilização da página com Bootstrap.\
+CSS3: Estilização da página.\
 JavaScript: Validação dos campos de entrada e interação com a API de CEP.\
 Bootstrap: Framework de CSS para design responsivo e estilização.
 
